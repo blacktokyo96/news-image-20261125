@@ -6,7 +6,7 @@
 
 A newspaper front page summing up Wednesday 25 November 2026: the US fires a tariff salvo at 14 economies, AI doubts sink Asian chip stocks, and Pakistan's first astronaut boards China's Tiangong station. The supplied front page is preserved as-is, with no redrawing, headline changes, or added stories.
 
-`entry.png` is the supplied 828x828 JPEG (316,293 bytes). The program copies these fixed image bytes and needs no network or dependencies.
+`entry.png` is the supplied 1024x1024 JPEG (480,699 bytes). The program copies these fixed image bytes and needs no network or dependencies.
 
 ## Stories covered
 
